@@ -1,11 +1,13 @@
-## Olá Mundo! Meu nome é Kalebe e eu sou Dev Junior!
+# 💫 About Me:
+👶 I am? Junior Dev<br>
+💜 Currently working at? Vesti<br>
+⚡ Fun Fact? I started by doing hardware maintenance<br>
 
-<div align="left">
-  <a href="https://github.com/k4may">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4may&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=k4may&theme=dark&hide_border=true)<br/>
     
-### Trabalho Com:
+## 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -13,13 +15,13 @@
    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
     
-### Estudo:
+## 🌱 I’m currently learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 </div>
   
-  ##
+## 🌐 Socials:
  
 <div> 
   <a href="https://instagram.com/kalebemay" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
