@@ -32,3 +32,9 @@
   <a href = "mailto:kalebemaynard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kalebemaynard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4may&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_title=true&hide_border=true&border_radius=20&card_width=700&hide=html,css,scss,procfile,nix,makefile" />
+</div></p>
+<div>
