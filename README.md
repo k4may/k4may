@@ -19,11 +19,6 @@
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
     
-*/ 🌱 I’m currently learning:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  
-</div> */
   
 ## 🌐 Socials:
  
