@@ -1,9 +1,7 @@
 # 💫 About Me:
-👶 I am? Junior Dev<br>
+👶 I am? Front End Dev<br>
 💜 Currently working at? Vesti<br>
 ⚡ Fun Fact? I started by doing hardware maintenance<br>
-
- ☢️ My Projects: app.gibborairsoft.com (Android/Ios/Web)
 
 
 ## 📊 GitHub Stats:
